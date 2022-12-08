@@ -1,0 +1,6 @@
+{
+  "eslint.codeActionsOnSave.rules": null,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+ }
+}

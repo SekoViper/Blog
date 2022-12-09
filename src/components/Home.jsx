@@ -21,7 +21,6 @@ const Home = () => {
   return (
     <div className="home">
       {blogs && <Blogs blogs={blogs} title="Our Blogs" deleteBlog={deleteBlog} />}
-      {blogs && <Blogs blogs={blogs.filter((blog) => blog.author === " yoshi") } title="Yoshi's Blogs" deleteBlog={deleteBlog} />}
     </div>
   );
 };

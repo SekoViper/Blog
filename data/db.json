@@ -1,0 +1,28 @@
+{
+  "blogs":[
+      {
+        "title": "My new website", 
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum sapiente corporis ipsam expedita illum soluta consequuntur sit suscipit! Ipsa, fugit?", 
+        "author": " mario", 
+        "id": 1
+      },
+      {
+        "title": "Seko Dameh Is Killing it!", 
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum sapiente corporis ipsam expedita illum soluta consequuntur sit suscipit! Ipsa, fugit?", 
+        "author": " yoshi", 
+        "id": 2
+      },
+      {
+        "title": "Welcome party!", 
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum sapiente corporis ipsam expedita illum soluta consequuntur sit suscipit! Ipsa, fugit?", 
+        "author": " yoshi", 
+        "id": 3
+      },
+      {
+        "title": "Web dev top tips", 
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum sapiente corporis ipsam expedita illum soluta consequuntur sit suscipit! Ipsa, fugit?", 
+        "author": " mario", 
+        "id": 4
+      }
+    ]
+}
